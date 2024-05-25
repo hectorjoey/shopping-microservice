@@ -1,0 +1,7 @@
+com\hectordevelopers\productservices\model\Product.class
+com\hectordevelopers\productservices\dto\ProductDto$ProductDtoBuilder.class
+com\hectordevelopers\productservices\controller\ProductController.class
+com\hectordevelopers\productservices\dto\ProductDto.class
+com\hectordevelopers\productservices\ProductServicesApplication.class
+com\hectordevelopers\productservices\repository\ProductRepository.class
+com\hectordevelopers\productservices\service\ProductService.class

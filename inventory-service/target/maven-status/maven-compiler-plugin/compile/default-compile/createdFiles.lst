@@ -1,0 +1,6 @@
+com\hectordevelopers\inventory_service\dto\InventoryDto.class
+com\hectordevelopers\inventory_service\model\Inventory.class
+com\hectordevelopers\inventory_service\repository\InventoryRepository.class
+com\hectordevelopers\inventory_service\service\InventoryService.class
+com\hectordevelopers\inventory_service\controller\InventoryController.class
+com\hectordevelopers\inventory_service\InventoryServiceApplication.class
